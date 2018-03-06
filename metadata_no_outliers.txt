@@ -1,0 +1,16 @@
+	Condition	Short ID	Category
+7-1162-IgAKO-P9	 IgA KO Follicular  B cell	KO-7	KoF
+6-1162-IgAKO-P8	IgA KO Marginal B cell	KO-6	KoM
+47-1170-IgAKO-P9	 IgA KO Follicular  B cell	KO-47	KoF
+46-1170-IgAKO-P8	IgA KO Marginal B cell	KO-46	KoM
+42-1169-Wt-P9	WT Follicular B cell	WT-42	WTF
+41-1169-Wt-P8	WT Marginal B cell	WT-41	WTM
+27-1166-IgAKO-P9	 IgA KO Follicular  B cell	KO-27	KoF
+26-1166-IgAKO-P8	IgA KO Marginal B cell	KO-26	KoM
+22-1165-Wt-P9	WT Follicular B cell	WT-22	WTF
+21-1165-Wt-P8	WT Marginal B cell	WT-21	WTM
+2-1161-Wt-P9	WT Follicular B cell	WT-2	WTF
+17-1164-IgAKO-P9	 IgA KO Follicular  B cell	KO-17	KoF
+16-1164-IgAKO-P8	IgA KO Marginal B cell	KO-16	KoM
+12-1163-Wt-P9	WT Follicular B cell	WT-12	WTF
+11-1163-Wt-P8	WT Marginal B cell	WT-11	WTM
