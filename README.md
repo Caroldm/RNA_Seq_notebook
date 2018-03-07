@@ -6,9 +6,9 @@ ________________________________________________________________________________
 
 **RNAseq tutorial.ipynb:** RNA-seq tutorial pipeline from fastq files to differential expression.
 
+_________________________________________________________________________________________________________
 
-
-## Pipeline Overview
+#### Pipeline Overview
 1. Generate genome Index file. 
 2. Read Alignment *(STAR)*. 
 3. Assign reads to genes *(featureCounts)*.
