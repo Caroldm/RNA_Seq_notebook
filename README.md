@@ -2,4 +2,4 @@
 
 _________________________________________________________________________________________________________
 
-RNAseq tutorial.ipynb: RNA-seq tutorial pipeline from fastq files to differential expression.
+#RNAseq tutorial.ipynb:# RNA-seq tutorial pipeline from fastq files to differential expression.
